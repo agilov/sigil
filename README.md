@@ -1,4 +1,4 @@
-# ☥ pepperflake
+# 🌶️ Pepperflake
 
 [![Crates.io](https://img.shields.io/crates/v/pepperflake.svg)](https://crates.io/crates/pepperflake)
 [![Docs.rs](https://docs.rs/pepperflake/badge.svg)](https://docs.rs/pepperflake)
